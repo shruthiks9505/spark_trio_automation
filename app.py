@@ -40,3 +40,5 @@ if st.button("Inject DB Failure"):
 
         st.subheader("Audit Log")
         st.write("Incident resolved successfully")
+
+    #success
