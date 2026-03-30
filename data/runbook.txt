@@ -1,0 +1,7 @@
+Issue: Database connection timeout
+Cause: DB service down or network issue
+
+Fix:
+1. Restart database service
+2. Check DB connectivity
+3. Increase timeout config
